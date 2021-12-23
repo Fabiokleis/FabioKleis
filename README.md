@@ -7,8 +7,7 @@
  💻 Javascript, C/C++, Linux
  
  💲 Arch Linux, Tmux, Neovim, ZSH
-  
- [![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=tokyonight)](https://github.com/fabiokleis)
+ <!-- [![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=tokyonight)](https://github.com/fabiokleis) -->
  
 <h3>🛠️ Projects</h3>
 
