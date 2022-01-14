@@ -6,7 +6,7 @@
 
  💻 Javascript, C/C++, Shell script
  
- 💲 Arch Linux, Awesomewm, Tmux, Neovim, ZSH
+ 💲 Arch Linux, Awesomewm, Tmux, Neovim
  <!-- [![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=tokyonight)](https://github.com/fabiokleis) -->
  
 <h3>🛠️ Projects</h3>
