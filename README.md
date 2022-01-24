@@ -4,7 +4,7 @@
 
 <h3>⚙️ Stack</h3>
 
- 💻 Javascript, C/C++, Shell script
+ 💻 Javascript, C/C++, Ansible, Docker, Github Actions, Shell script
  
  💲 Arch Linux, Awesomewm, Tmux, Neovim
  <!-- [![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=tokyonight)](https://github.com/fabiokleis) -->
