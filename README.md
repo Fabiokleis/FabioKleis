@@ -14,5 +14,3 @@
  🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com)
  
  🎮 c++ game - [@sfml_game](https://github.com/fabiokleis/sfml_game)
-
- [![Fabio Kleis Github Stats](https://github-readme-stats.vercel.app/api?username=fabiokleis&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/fabiokleis)
