@@ -9,8 +9,13 @@
  💲 Arch Linux, Awesomewm, Tmux, Neovim
  <!-- [![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=tokyonight)](https://github.com/fabiokleis) -->
  
-<h2>🎓 Studying</h2>
+<h2>📚🎓 Studying</h2>
 
+ 
+ 🦀 [@Rust](https://doc.rust-lang.org/book/)
+ 
+ 💁‍♂️ [@Jenkins](https://www.jenkins.io/)
+ 
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
  🌲 Data Structures 2 - [@estruturas_de_dados2](https://github.com/Fabiokleis/estruturas_de_dados2)
