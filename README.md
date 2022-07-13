@@ -12,7 +12,7 @@
 <h2>📚🎓 Studying</h2>
 
  
- 🦀 [@Rust](https://doc.rust-lang.org/book/)
+ 🦀 Rust and sdl2 - [@sdl2_lab](https://github.com/Fabiokleis/sdl2_lab)
  
  💁‍♂️ [@Simple Devops project](https://github.com/Fabiokleis/Simple-DevOps-Project) with [Jenkins](https://www.jenkins.io/)
  
