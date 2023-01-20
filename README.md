@@ -17,7 +17,7 @@
  
  🦀 OpenLdap with Rust - [rldap](https://github.com/Fabiokleis/rldap)
  
- 🦀 Converting images to pdfs with Rust - [rpdf](https://github.com/Fabiokleis/rpdf)
+ 🦀 GUI/Cli to convert images to pdfs with Rust - [rpdf](https://github.com/Fabiokleis/rpdf)
  
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
