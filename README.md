@@ -15,6 +15,8 @@
  
  <h2>📚🎓 Studying</h2>
  
+ 🐍 Ldap/AD with Python - [p_ad](https://github.com/fabiokleis/p_ad)
+ 
  🦀 OpenLdap with Rust - [rldap](https://github.com/Fabiokleis/rldap)
  
  🦀 GUI/Cli to convert images to pdfs with Rust - [rpdf](https://github.com/Fabiokleis/rpdf)
