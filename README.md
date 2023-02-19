@@ -15,11 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 🐍 Ldap/AD with Python - Python package [p_ad](https://github.com/fabiokleis/p_ad) padc - Python Active Directory Command
- 
- 🦀 OpenLdap with Rust - [rldap](https://github.com/Fabiokleis/rldap)
- 
- 🦀 GUI/Cli to convert images to pdfs with Rust - [rpdf](https://github.com/Fabiokleis/rpdf)
+ 🦀 OpenLdap with Rust - [@rldap](https://github.com/Fabiokleis/rldap)
  
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
@@ -29,6 +25,10 @@
 <h2>🛠️ Projects</h2>
 
  🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com)
+ 
+ 🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in last [release](https://github.com/Fabiokleis/rpdf/releases)
+ 
+ 🐍 Ldap/AD CLI - [@padc](https://github.com/fabiokleis/padc) - Python Active Directory Command, available in [pypi](https://pypi.org/project/padc/)
  
  🧙 Rust game - [@rpg](https://github.com/Fabiokleis/rpg)
  
