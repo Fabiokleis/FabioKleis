@@ -15,7 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 🐍 Ldap/AD with Python - [p_ad](https://github.com/fabiokleis/p_ad)
+ 🐍 Ldap/AD with Python - Python package [p_ad](https://github.com/fabiokleis/p_ad) padc - Python Active Directory Command
  
  🦀 OpenLdap with Rust - [rldap](https://github.com/Fabiokleis/rldap)
  
