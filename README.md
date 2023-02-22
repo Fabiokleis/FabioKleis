@@ -26,7 +26,7 @@
 
  🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com)
  
- 🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in lastest [release](https://github.com/Fabiokleis/rpdf/releases)
+ 🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
  
  🐍 Ldap/AD CLI - [@padc](https://github.com/fabiokleis/padc) - Python Active Directory Command, available in [pypi](https://pypi.org/project/padc/)
  
