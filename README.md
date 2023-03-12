@@ -15,6 +15,8 @@
  
  <h2>📚🎓 Studying</h2>
  
+ 👾 🧵 System Programming - [@sistemas_operacionais](https://github.com/Fabiokleis/sistemas_operacionais)
+ 
  🦀 OpenLdap with Rust - [@rldap](https://github.com/Fabiokleis/rldap)
  
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
