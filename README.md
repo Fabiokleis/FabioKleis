@@ -9,7 +9,7 @@
  💲 Arch Linux, Awesomewm, Tmux, Neovim
  
  
- <!-- ![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact) -->
+![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&hide=lua&theme=transparent)
  
  <!-- [![@fabiokleis's Holopin board](https://holopin.me/fabiokleis)](https://holopin.io/@fabiokleis) -->
  
