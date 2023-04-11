@@ -4,7 +4,7 @@
 
 <h2>⚙️ Stack</h2>
 
- 💻 Rust, Python, C/C++, Javascript, Ansible, Shell script, Jenkins, Docker...
+ 💻 Rust, Python, C, C++, Javascript, Ansible, Shell script, Docker...
  
  💲 Arch Linux, Awesomewm, Tmux, Neovim
  
