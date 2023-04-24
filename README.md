@@ -31,7 +31,3 @@
  🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
  
  🐍 Active Directory CLI - [@padc](https://github.com/fabiokleis/padc) - Python Active Directory Command, available in [pypi](https://pypi.org/project/padc/)
- 
- 🧙 Rust game - [@rpg](https://github.com/Fabiokleis/rpg)
- 
- 🎮 c++ game - [@sfml_game](https://github.com/fabiokleis/sfml_game)
