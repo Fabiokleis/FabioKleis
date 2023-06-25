@@ -15,7 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 👾 🧵 System Programming - [@sistemas_operacionais](https://github.com/Fabiokleis/toscop)
+ 👾 🧵 System Programming - [@toscop](https://github.com/Fabiokleis/toscop)
  
  ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)
  
