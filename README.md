@@ -15,8 +15,6 @@
  
  <h2>📚🎓 Studying</h2>
  
- 👾 🧵 System Programming - [@toscop](https://github.com/Fabiokleis/toscop)
- 
  ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)
  
  🦀 OpenLdap with Rust - [@rldap](https://github.com/Fabiokleis/rldap)
@@ -29,6 +27,8 @@
 <h2>🛠️ Projects</h2>
 
  🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com)
+
+ 👾 🧵 top - System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop)
  
  🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
  
