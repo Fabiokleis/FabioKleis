@@ -16,8 +16,6 @@
  <h2>📚🎓 Studying</h2>
  
  ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)
- 
- 🦀 OpenLdap with Rust - [@rldap](https://github.com/Fabiokleis/rldap)
 
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
@@ -28,8 +26,10 @@
 
  🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com)
 
- 👾 🧵 top - System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop)
+ 👾 🧵 System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop) - Toscop a system monitoring cli like top.
  
- 🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
+ 🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) - Convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
  
  🐍 Active Directory CLI - [@padc](https://github.com/fabiokleis/padc) - Python Active Directory Command, available in [pypi](https://pypi.org/project/padc/)
+
+ 👾 Invaders - C raylib game - [@craylib_invaders](https://github.com/Fabiokleis/craylib_invaders) - My version of space invaders in C
