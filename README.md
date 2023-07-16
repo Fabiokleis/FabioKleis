@@ -6,7 +6,7 @@
 
  💻 C, C++, Python, Rust, Javascript, Ansible, Shell script, Docker, Terraform...
  
- 💲 Arch Linux, Awesomewm, Tmux, Neovim
+ 💲 Arch Linux, Awesomewm, Tmux, Emacs
  
  
 ![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&hide=lua&theme=transparent)
