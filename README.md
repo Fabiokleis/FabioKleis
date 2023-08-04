@@ -9,7 +9,7 @@
  💲 Arch Linux, Awesomewm, Tmux, Emacs
  
  
-![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&hide=lua&theme=transparent)
+![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css)
  
  <!-- [![@fabiokleis's Holopin board](https://holopin.me/fabiokleis)](https://holopin.io/@fabiokleis) -->
  
@@ -32,4 +32,4 @@
  
  🐍 Active Directory CLI - [@padc](https://github.com/fabiokleis/padc) - Python Active Directory Command, available in [pypi](https://pypi.org/project/padc/)
 
- 👾 Invaders - C raylib game - [@craylib_invaders](https://github.com/Fabiokleis/craylib_invaders) - My version of space invaders in C
+ 🧙 Waves - [@waves](https://github.com/Fabiokleis/waves) - C++ OpenGL roguelike game 
