@@ -15,7 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 🖧 protobuf mqtt - [@protobuf-mqtt](https://github.com/Fabiokleis/protobuf-mqtt)
+ 🖧 nodejs net protobuf mqtt - [@protobuf-mqtt](https://github.com/Fabiokleis/node-net)
  <!-- ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)  -->
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
