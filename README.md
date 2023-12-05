@@ -4,7 +4,7 @@
 
 <h2>⚙️ Stack</h2>
 
- 💻 C, C++, Python, Typescript, Javascript, Rust, Ansible, Shell script, Docker, Terraform...
+ 💻 C, C++, Rust, Go, Python, Typescript, Javascript, Ansible, Shell script, Docker, Terraform...
  
  💲 Arch Linux, Awesomewm, Tmux, Emacs
  
@@ -15,7 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 🖧 nodejs net protobuf mqtt - [@node-net](https://github.com/Fabiokleis/node-net)
+ 🖧🦀 Rust net - Exploring net crate [@rust-net](https://github.com/Fabiokleis/rust-net)
  <!-- ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)  -->
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
