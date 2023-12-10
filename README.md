@@ -15,7 +15,7 @@
  
  <h2>📚🎓 Studying</h2>
  
- 🖧🦀 chatr - [@rust-net](https://github.com/Fabiokleis/chatr) Exploring net crate by creating a chat app
+ 🖧🦀 chatr - [@chatr](https://github.com/Fabiokleis/chatr) Exploring net crate by creating a chat app
  <!-- ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)  -->
  🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
  
