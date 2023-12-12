@@ -24,7 +24,7 @@
  
 <h2>🛠️ Projects</h2>
 
- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio.
+ <!-- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio. -->
 
  👾 🧵 System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop) - Toscop a system monitoring cli like top.
  
