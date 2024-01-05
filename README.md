@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🙋 Developer and linux enthusiast.
+ 🙋 Developer and linux enthusiast. Currently learning Erlang and Elixir.
 
 <h2>⚙️ Stack</h2>
 
