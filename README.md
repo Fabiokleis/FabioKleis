@@ -14,12 +14,16 @@
  <!-- [![@fabiokleis's Holopin board](https://holopin.me/fabiokleis)](https://holopin.io/@fabiokleis) -->
  
  <h2>📚🎓 Studying</h2>
+
+ 🐙 [@erlang-learning](https://github.com/Fabiokleis/erlanglearning) - Studying erlang.
  
- 🖧🦀 chatr - [@chatr](https://github.com/Fabiokleis/chatr) Exploring net crate by creating a chat app
+ 👽 [@land-of-lisp](https://github.com/Fabiokleis/land-of-lisp) - Studying lisp by reading land of lisp.
+ 
+ <!-- 🖧🦀 chatr - [@chatr](https://github.com/Fabiokleis/chatr) Exploring net crate by creating a chat app -->
  <!-- ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)  -->
- 🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1)
+ <!-- 🌱 Data Structures 1 - [@estrutura_de_dados1](https://github.com/Fabiokleis/estrutura_de_dados1) -->
  
- 🌲 Data Structures 2 - [@estruturas_de_dados2](https://github.com/Fabiokleis/estruturas_de_dados2)
+ <!-- 🌲 Data Structures 2 - [@estruturas_de_dados2](https://github.com/Fabiokleis/estruturas_de_dados2) -->
  
  
 <h2>🛠️ Projects</h2>
