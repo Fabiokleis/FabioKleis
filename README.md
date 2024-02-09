@@ -2,6 +2,8 @@
 
  🙋 Developer and linux enthusiast. Currently (learning '(Erlang Elixir Lisp))
 
+ Rinher: erlang na [rinha-de-backend](https://github.com/Fabiokleis/rinha-de-backend-2024)
+
 <h2>⚙️ Stack</h2>
 
  💻 C, C++, Rust, Go, Python, Typescript, Javascript, Ansible, Shell script, Docker...
