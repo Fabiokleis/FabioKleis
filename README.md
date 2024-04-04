@@ -6,7 +6,7 @@
 
 <h2>⚙️ Stack</h2>
 
- 💻 C, C++, Rust, Go, Python, Typescript, Javascript, Ansible, Shell script, Docker...
+ 💻 C, C++, Rust, Go, Python, Typescript, Ansible, Shell script, Docker...
  
  💲 Arch Linux, Awesomewm, Tmux, Emacs
  
