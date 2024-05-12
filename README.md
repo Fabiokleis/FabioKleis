@@ -34,7 +34,9 @@
 
  👾 🧵 System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop) - Toscop a system monitoring cli like top.
 
- 🧦 Network Programming - [@fserver-udp](https://github.com/Fabiokleis/fserver-udp) - Golang File server and client over UDP.
+ 🧦 Network Programming
+  - [@ftcperl](https://github.com/Fabiokleis/ftcperl) - Erlang File server and chat with Python client over TCP.
+  - [@fserver-udp](https://github.com/Fabiokleis/fserver-udp) - Golang File server and client over UDP.
  
  🦀 GUI/Cli - [@rpdf](https://github.com/Fabiokleis/rpdf) - Convert images to pdfs, available in latest [release](https://github.com/Fabiokleis/rpdf/releases)
  
