@@ -35,6 +35,7 @@
  👾 🧵 System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop) - Toscop a system monitoring cli like top.
 
  🧦 Network Programming
+  - [@rawhttp](https://github.com/Fabiokleis/rawhttp) - Erlang raw http server.
   - [@ftcperl](https://github.com/Fabiokleis/ftcperl) - Erlang File server and chat with Python client over TCP.
   - [@fserver-udp](https://github.com/Fabiokleis/fserver-udp) - Golang File server and client over UDP.
  
