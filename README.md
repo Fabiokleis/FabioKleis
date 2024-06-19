@@ -8,7 +8,7 @@
 
  💻 C, C++, Rust, Go, Python, Typescript, Ansible, Shell script, Docker...
  
- 💲 Arch Linux, Awesomewm, Tmux, Emacs
+ 💲 Nixos, Awesomewm, Emacs
  
  
 ![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css)
