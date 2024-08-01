@@ -6,7 +6,7 @@
 
 <h2>⚙️ Stack</h2>
 
- 💻 C, C++, Erlang, Elixir, Go, Python, Typescript, Ansible, Shell script, Docker...
+ 💻 C, Erlang, Elixir, Typescript, Go, Python, Nix, Ansible, Shell script, Docker...
  
  💲 Nixos, Awesomewm, Emacs
  
