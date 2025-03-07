@@ -15,11 +15,11 @@
  
  <!-- [![@fabiokleis's Holopin board](https://holopin.me/fabiokleis)](https://holopin.io/@fabiokleis) -->
  
- <h2>📚🎓 Studying</h2>
+ <!-- <h2>📚🎓 Studying</h2> -->
 
- 🐙 [@erlang-learning](https://github.com/Fabiokleis/erlanglearning) - Studying erlang.
+ <!-- 🐙 [@erlang-learning](https://github.com/Fabiokleis/erlanglearning) - Studying erlang. -->
  
- 👽 [@land-of-lisp](https://github.com/Fabiokleis/land-of-lisp) - Studying lisp by reading land of lisp.
+ <!-- 👽 [@land-of-lisp](https://github.com/Fabiokleis/land-of-lisp) - Studying lisp by reading land of lisp. -->
  
  <!-- 🖧🦀 chatr - [@chatr](https://github.com/Fabiokleis/chatr) Exploring net crate by creating a chat app -->
  <!-- ☁️ Terraform - [@terraform_pratices](https://github.com/Fabiokleis/terraform_pratices)  -->
@@ -31,6 +31,8 @@
 <h2>🛠️ Projects</h2>
 
  <!-- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio. -->
+ 
+ 🗜️ Image compression - [@huffman](https://github.com/Fabiokleis/huffman) - Compress and Decompress .bmp images using huffman & kmeans algorithms.
 
  👾 🧵 System Monitoring - [@toscop](https://github.com/Fabiokleis/toscop) - Toscop a system monitoring cli like top.
 
