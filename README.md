@@ -1,8 +1,6 @@
 ### Hi there 👋
 
- 🙋 Developer and linux enthusiast. (learning '(esp32 Erlang Elixir Lisp))
-
- Rinher: erlang na [rinha-de-backend](https://github.com/Fabiokleis/rinha-de-backend-2024)
+ 🙋 Developer and linux enthusiast.
 
 <h2>⚙️ Stack</h2>
 
