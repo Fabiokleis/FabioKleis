@@ -29,6 +29,8 @@
 <h2>🛠️ Projects</h2>
 
  <!-- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio. -->
+
+ \# [esp32-embedded-lua](https://github.com/Fabiokleis/esp32-embedded-lua) - Embebbeding Lua as esp32 idf component and running dynamic code using MQTT.
  
  🗜️ Image compression - [@huffman](https://github.com/Fabiokleis/huffman) - Compress and Decompress .bmp images using huffman & kmeans algorithms.
 
