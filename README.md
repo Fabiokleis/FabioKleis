@@ -30,11 +30,14 @@
 
  <!-- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio. -->
 
- λ [forth](https://github.com/Fabiokleis/forth) - Basic Forth Evaluator written in Haskell
+ ⛁ [@raft](https://github.com/Fabiokleis/raft) - Key-Value Document Database fully written in C, implements Raft Consensus Algorithm.
+
+ λ [forth](https://github.com/Fabiokleis/forth) - Forth Evaluator written in Haskell
  
  \# [esp32-embedded-lua](https://github.com/Fabiokleis/esp32-embedded-lua) - Embebbeding Lua as esp32 idf component and running dynamic code using MQTT.
 
  🐇 [trackball](https://github.com/Fabiokleis/trackball) - Computer Graphics OpenGL .obj 3d models c++ trackball quaternion rotation, texture mapping, phong lighting and ImGui.
+
  
  🗜️ Image compression - [@huffman](https://github.com/Fabiokleis/huffman) - Compress and Decompress .bmp images using huffman & kmeans algorithms.
 
