@@ -30,7 +30,7 @@
 
  <!-- 🐧 Fabiokleis - [@fabiokleis](https://fabiokleis.herokuapp.com) - my old portfolio. -->
 
- ⛁ [@raft](https://github.com/Fabiokleis/raft) - Key-Value Document Database fully written in C, implements Raft Consensus Algorithm.
+ <!-- ⛁ [@raft](https://github.com/Fabiokleis/raft) - Key-Value Document Database fully written in C, implements Raft Consensus Algorithm. -->
 
  λ [forth](https://github.com/Fabiokleis/forth) - Forth Evaluator written in Haskell
  
