@@ -4,9 +4,9 @@
 
 <h2>⚙️ Stack</h2>
 
- 💻 C, Erlang, Elixir, Haskell, Typescript, Go, Python, Nix, Ansible, Shell script, Docker...
+ 💻 C/C++, Golang, Typescript, Python, Erlang, Elixir, Haskell, Nix, Ansible, Shell script, Docker...
  
- 💲 Nixos, Awesomewm, Emacs
+ 💲 Nixos, Awesomewm, Emacs > Nvim
  
  
 ![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css)
