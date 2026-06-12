@@ -9,7 +9,7 @@
  💲 Nixos, Awesomewm, Emacs > Nvim
  
  
-![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css,lua,c++)
+![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css,lua)
  
  <!-- [![@fabiokleis's Holopin board](https://holopin.me/fabiokleis)](https://holopin.io/@fabiokleis) -->
  
