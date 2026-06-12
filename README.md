@@ -6,7 +6,7 @@
 
  💻 C/C++, Golang, Typescript, Python, Erlang, Elixir, Haskell, Nix, Ansible, Shell script, Docker...
  
- 💲 Nixos, Awesomewm, Emacs > Nvim
+ 💲 Nixos, Awesomewm, Emacs
  
  
 ![Fabio Kleis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokleis&layout=compact&theme=transparent&hide=html,css,lua)
